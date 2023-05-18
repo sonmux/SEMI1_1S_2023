@@ -1,0 +1,10 @@
+Changed database context to 'Practica1_semi2'.
+año         TOTALAÑOS_totalMuertes
+----------- ----------------------
+       2010                 316991
+       2004                 227934
+       1923                 142830
+       2008                  87673
+       1908                  80033
+
+(5 rows affected)

@@ -1,0 +1,26 @@
+Changed database context to 'Practica1_semi2'.
+registrosTiempo
+---------------
+            219
+
+(1 rows affected)
+registrosPais
+-------------
+          104
+
+(1 rows affected)
+registrosTsunami
+----------------
+             229
+
+(1 rows affected)
+registrosDesastre
+-----------------
+             2161
+
+(1 rows affected)
+registrosTemporal
+-----------------
+             2161
+
+(1 rows affected)

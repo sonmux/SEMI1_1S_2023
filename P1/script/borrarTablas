@@ -1,0 +1,5 @@
+drop table temporal;
+drop table desastre;
+drop table tsunami;
+drop table pais;
+drop table tiempo;

@@ -1,0 +1,10 @@
+Changed database context to 'Practica1_semi2'.
+año         TOTAL_tsunamiAño
+----------- ----------------
+       1928               25
+       1938               23
+       1878               23
+       1868               23
+       1854               21
+
+(5 rows affected)

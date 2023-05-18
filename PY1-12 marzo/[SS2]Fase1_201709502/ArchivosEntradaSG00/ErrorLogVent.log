@@ -1,0 +1,2 @@
+System.IndexOutOfRangeException: Índice fuera de los límites de la matriz.
+   en ST_ca8d898a1d074de482f929b86cb8fca4.ScriptMain.Main()
