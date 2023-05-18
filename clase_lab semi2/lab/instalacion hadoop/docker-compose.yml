@@ -1,0 +1,15 @@
+version: '3.9'
+services:
+  hadoop:
+    image: sequenceiq/hadoop-docker
+    command: ""
+    container_name: hoja4
+    ports:
+      - "50070-50080:50070-50080"
+    volumes:
+      - practica:/source
+    restart: always
+    working_dir: /practica2
+
+volumes:
+  practica:
